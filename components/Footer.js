@@ -4,8 +4,8 @@ const Footer = () => {
             <div className="mx-auto max-w-screen-lg">
                 Git Glance is built with <a href="https://nextjs.org">Nextjs v14.1.0</a> &{' '}
                 <a href="https://tailwindcss.com/">TailwindCSS</a> By{' '}
-                <a href="http://github.com/devXprite/">devxprite</a>. Source is on{' '}
-                <a href="https://github.com/devXprite/gitglance">Github</a>
+                <a href="http://github.com/ydv-kunjesh/">Ydv_Kunjesh</a>. Source is on{' '}
+                <a href="https://github.com/">Github</a>
             </div>
         </footer>
     );

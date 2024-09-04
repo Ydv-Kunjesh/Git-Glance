@@ -1,9 +1,9 @@
 <h1 align="center">GitGlance</h1>
 <h3 align="center">Tool for visualizing GitHub profiles</h3>
 <p align="center">
- <a href="https://gitglance.vercel.app/">View Demo</a>
+ <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/devXprite/gitglance/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
+    <a href="#">Report Bug</a>
 </p>
 <br/>
 
@@ -113,3 +113,6 @@ GitGlance utilizes the following technologies and libraries:
 ## Support
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
+
+## Ydv Kunjesh
