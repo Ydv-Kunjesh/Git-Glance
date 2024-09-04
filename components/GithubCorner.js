@@ -3,7 +3,7 @@ import React from 'react';
 const GithubCorner = () => {
     return (
         <>
-            <a href="https://github.com/devxpite/gitglance" className="github-corner" aria-label="View source on GitHub">
+            <a href="https://github.com/" className="github-corner" aria-label="View source on GitHub">
                 <svg
                     width="80"
                     height="80"
