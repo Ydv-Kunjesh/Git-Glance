@@ -1,7 +1,7 @@
 <h1 align="center">GitGlance</h1>
 <h3 align="center">Tool for visualizing GitHub profiles</h3>
 <p align="center">
- <a href="#">View Demo</a>
+ <a href="https://git-glance-iota.vercel.app/">View Demo</a>
     ·
     <a href="#">Report Bug</a>
 </p>
